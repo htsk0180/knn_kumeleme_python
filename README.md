@@ -1,2 +1,3 @@
 # knn_kumeleme_python
  
+k - en yakın komşular algoritması ( k - NN ), ilk olarak 1951'de Evelyn Fix ve Joseph Hodges tarafından geliştirilen [1] ve daha sonra Thomas Cover tarafından genişletilen parametrik olmayan denetimli bir öğrenme yöntemidir . [2] Sınıflandırma ve regresyon için kullanılır . Her iki durumda da girdi, bir veri kümesindeki k en yakın eğitim örneğinden oluşur . Çıktı, k -NN'nin sınıflandırma veya regresyon için kullanılıp kullanılmadığına bağlıdır
